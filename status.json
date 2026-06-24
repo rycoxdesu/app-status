@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": enable,
   "message": "This app has been discontinued permanently. Appreciate the support.",
   "min_version": "1.0.0"
 }
